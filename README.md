@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Aulkhami
 - 👀 I’m interested in Web/Game Development
 - 🌱 I’m currently learning Full-Stack Web Development
-- 📫 How to reach me: rakha.tblt@gmail.com
